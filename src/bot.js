@@ -167,8 +167,8 @@ class Bot {
     //let bot1 = new WeakBot('Phil Hellmuth');
     //players.push(bot1);
     
-    let bot2 = new AggroBot('Phil Ivey');
-    players.push(bot2);
+    // let bot2 = new AggroBot('Phil Ivey');
+    // players.push(bot2);
   }
 
   // Private: Save which channels and groups this bot is in and log them.
